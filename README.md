@@ -10,7 +10,7 @@ Funding opportunities may exist to support conservation and extraction of this m
 
 _&#42;**Note on access**: This material is not directly publicly accessible. Users may fund ingest of materials into Tier 1 and/or Tier 2 through [standard Special Collections copy requests, at a fee](https://library.gwu.edu/scrc/access/copies)._
 
-# Tier
+# Tier 1
 **Storage**: Washington Research Library Consortium, standard virtual machine  
 **Backups**: 29-day Forever Forward Incremental Backups with 30-day full backups, on-site.  
 **See also**: 
